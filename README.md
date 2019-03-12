@@ -1,5 +1,5 @@
 
-C++ London University Week 14 Inheritance Exercise
+C++ London Uni Week 14 Inheritance Exercise
 ==================================================
 
 Congratulations! You have been appointed as Chief Technology Officer for 
